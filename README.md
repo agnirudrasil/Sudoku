@@ -12,19 +12,19 @@ Just paste the commands, one by one, in your terminal, or just type them out.
 
 Be sure to install all the fonts provided in the fonts folder, or you **will get errors**.
 
-Then run the **gui_own.py** file
+Then run the `gui_own.py` file
 
 # Controls:
 
-* **Left-Click** enter number in a grid
+* `Left-Click` enter number in a grid
 
-* **Right-Click** activate pencil
+* `Right-Click` activate pencil
 
-* **Tab** use hint
+* `Tab` use hint
 
-* **Del** delete number or pencil marks in the cell
+* `Del` delete number or pencil marks in the cell
 
-* **Space** let the AI solve the puzzle for you
+* `Space` let the AI solve the puzzle for you
 
 # Note
 
