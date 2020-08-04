@@ -1,5 +1,8 @@
 # Sudoku
 
+![Logo](https://github.com/AgnirudraSil/Sudoku/blob/master/icon.png)
+
+
 This project uses the pygame and Tkinter libraries.
 
 You have to install them first, by running the following commands:
