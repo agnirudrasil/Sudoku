@@ -7,9 +7,9 @@ This project uses the pygame and Tkinter libraries.
 
 You have to install them first, by running the following commands:
 
-```pip3 install pygame```
+> pip3 install pygame
 
-```pip3 install tkinter```
+> pip3 install tkinter
 
 Just paste the commands, one by one, in your terminal, or just type them out.
 
