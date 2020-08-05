@@ -13,7 +13,7 @@ You have to install them first, by running the following commands:
 
 Just paste the commands, one by one, in your terminal, or just type them out.
 
-Be sure to install all the fonts provided in the fonts folder, or you **will get errors**.
+Be sure to install all the fonts provided in the `fonts` folder, or you **will get errors**.
 
 Then run the `gui_own.py` file
 
