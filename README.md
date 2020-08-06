@@ -19,15 +19,15 @@ Then run the `gui_own.py` file
 
 # Controls:
 
-* `Left-Click` enter number in a grid
+* <kbd>Left-Click</kbd> enter number in a grid
 
-* `Right-Click` activate pencil
+* <kbd>Right-Click</kbd> activate pencil
 
-* `Tab` use hint
+* <kbd>Tab</kbd> use hint
 
-* `Del` delete number or pencil marks in the cell
+* <kbd>Del</kbd> delete number or pencil marks in the cell
 
-* `Space` let the AI solve the puzzle for you
+* <kbd>Space</kbd> let the AI solve the puzzle for you
 
 # Note
 
